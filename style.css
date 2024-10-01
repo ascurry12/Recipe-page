@@ -21,7 +21,7 @@ body {
     justify-content: center;
     font-family: 'Outfit';
     font-weight: 400;
-    height: 270vh;
+    min-height: 100vh;
 }
 
 #recipe-card {
